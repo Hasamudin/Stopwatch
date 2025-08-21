@@ -1,6 +1,6 @@
 # ⏱ Stopwatch Project
 
-Click [here](https://Hasamudin/#.github.io/Stopwatch)
+Click [here](https://Hasamudin/#.github.io/Stopwatch) to see
 
 ![Stopwatch Preview](image.png)  
 
