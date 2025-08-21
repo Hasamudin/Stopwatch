@@ -3,7 +3,7 @@
 Click [here](https://Hasamudin/#.github.io/Stopwatch)
 
 ![Stopwatch Preview](image.png)  
-*جای عکس پروژه - مسیر عکس را تغییر دهید.*
+
 
 ---
 
